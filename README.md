@@ -4,10 +4,10 @@ this code is writen with the help of ChatGPT
 and inspired by EbolaMan 
   github.com/EbolaMan-YT/Batch-Multi-Tool
 
-this tool help any one who have alot of scripts and want a way to one tool to organize them.
+this tool help any one who have alot of scripts and want a way to organize them.
 
-on the first lanch, the tool will ask for the dir of where the user save his scrypt.
-and the tool can handle multiple path.
+on the first lanch, the tool will ask for the dir of where the user save his scrypts.
+the tool can handle multiple path.
 ```
 First time setup: please add at least one script directory.
 Enter a script directory path (or leave blank to finish):  
@@ -39,13 +39,18 @@ Directory: D:\your\other\dir
         ╔═(3) JUST_testing
         ╠═══(4) map_viewer_pyqt5        
         ║
-        ╠═══(5) map_viewer_pyqt5_markers
-        ║
-        ╠═══(6) map_viewer_tkinter
-        ║
-        ╠═══(7) map_viewer_tkinter_interactive
-        ║
-        ╚╦═══(8) tempCodeRunnerFile
+        ╚╦═══(5) tempCodeRunnerFile
          ║
         ╚══════>
+```
+you just enter the number next to the scrypt you need 
+```
+
+        ╚══════> 2
+
+```
+
+if the scrypt needs arguments, write here
+```
+Enter arguments (or leave blank):
 ```
